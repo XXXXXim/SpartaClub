@@ -34,3 +34,4 @@ for tc in range(1, T + 1):
     grade = grades[idx // (N // 10)]
 
     print(f"#{tc} {grade}")
+
