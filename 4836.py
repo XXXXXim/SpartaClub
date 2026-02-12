@@ -19,3 +19,4 @@ for tc in range(1, T+1):
             if board[i][j]==3:
                 cnt+=1
     print(f'#{tc} {cnt}')
+
